@@ -1,0 +1,3 @@
+﻿  PS03-2.cpp
+C:\Users\Bequi\Desktop\24780\PS03-2\PS03-2\PS03-2.cpp(148,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PS03-2.vcxproj -> C:\Users\Bequi\Desktop\24780\PS03-2\Debug\PS03-2.exe

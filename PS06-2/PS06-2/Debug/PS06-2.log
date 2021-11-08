@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PS03-2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PS06-2.cpp
+C:\Users\Bequi\Desktop\24780\PS06-2\PS06-2\PS06-2.cpp(177,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PS06-2.vcxproj -> C:\Users\Bequi\Desktop\24780\PS06-2\PS06-2\Debug\PS06-2.exe

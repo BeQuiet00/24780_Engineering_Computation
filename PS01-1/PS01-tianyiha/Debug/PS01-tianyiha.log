@@ -1,0 +1,5 @@
+﻿  PS01-tianyiha.cpp
+C:\Users\Bequi\Desktop\24780\PS01-tianyiha\PS01-tianyiha\PS01-tianyiha.cpp(15,47): error C2440: 'initializing': cannot convert from 'std::chrono::steady_clock::time_point' to 'double'
+C:\Users\Bequi\Desktop\24780\PS01-tianyiha\PS01-tianyiha\PS01-tianyiha.cpp(15,18): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Bequi\Desktop\24780\PS01-tianyiha\PS01-tianyiha\PS01-tianyiha.cpp(19,66): error C2676: binary '-': 'std::chrono::steady_clock::time_point' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Bequi\Desktop\24780\PS01-tianyiha\PS01-tianyiha\PS01-tianyiha.cpp(19,26): error C2672: 'std::chrono::duration_cast': no matching overloaded function found

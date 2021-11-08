@@ -1,0 +1,7 @@
+﻿  demo.cpp
+C:\Users\Bequi\Desktop\24780\IndividualProject\IndividualProject\demo.cpp(38,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Bequi\Desktop\24780\IndividualProject\IndividualProject\demo.cpp(38,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Bequi\Desktop\24780\IndividualProject\IndividualProject\demo.cpp(39,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Bequi\Desktop\24780\IndividualProject\IndividualProject\demo.cpp(39,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Bequi\Desktop\24780\IndividualProject\IndividualProject\demo.cpp(133,38): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  IndividualProject.vcxproj -> C:\Users\Bequi\Desktop\24780\IndividualProject\Debug\IndividualProject.exe

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PS02_2_tianyiha.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PS06_1_tianyiha.cpp
+C:\Users\Bequi\Desktop\24780\PS06-1\PS06_1_tianyiha\PS06_1_tianyiha.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bequi\Desktop\24780\PS06-1\PS06_1_tianyiha\PS06_1_tianyiha.cpp(89,13): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  PS06_1_tianyiha.vcxproj -> C:\Users\Bequi\Desktop\24780\PS06-1\PS06_1_tianyiha\Debug\PS06_1_tianyiha.exe

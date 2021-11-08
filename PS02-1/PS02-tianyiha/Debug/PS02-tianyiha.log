@@ -1,0 +1,2 @@
+﻿ps2-2.obj : error LNK2005: _main already defined in ps2-1.obj
+C:\Users\Bequi\Desktop\24780\PS02-tianyiha\Debug\PS02-tianyiha.exe : fatal error LNK1169: one or more multiply defined symbols found

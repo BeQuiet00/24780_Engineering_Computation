@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: Two or more files with the name of fssimplewindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\graphics\windows\fssimplewindow.cpp, fssimplewindow.cpp.
+  PS03-1.cpp
+  PS03-1.vcxproj -> C:\Users\Bequi\Desktop\24780\PS03-1\Debug\PS03-1.exe

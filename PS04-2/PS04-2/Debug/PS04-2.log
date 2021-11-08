@@ -1,0 +1,6 @@
+﻿  PS04-2.cpp
+C:\Users\Bequi\Desktop\24780\PS04-2\PS04-2\PS04-2.cpp(24,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bequi\Desktop\24780\PS04-2\PS04-2\PS04-2.cpp(231,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bequi\Desktop\24780\PS04-2\PS04-2\PS04-2.cpp(232,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bequi\Desktop\24780\PS04-2\PS04-2\PS04-2.cpp(270,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PS04-2.vcxproj -> C:\Users\Bequi\Desktop\24780\PS04-2\Debug\PS04-2.exe
